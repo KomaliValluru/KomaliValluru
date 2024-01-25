@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalivalluru&label=Profile%20views&color=0e75b6&style=flat" alt="komalivalluru" /> </p>
 
-- 🔭 I’m currently as **Graduate Assistant at University of South Florida**
+- 🔭 I’m currently working as **Graduate Assistant at University of South Florida**
 
 - 🌱 I’m currently learning **LLM's and GenAI**
 
