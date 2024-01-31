@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a **Graduate Assistant at University of South Florida**
 
-- 👔 I have 3+ years working as a **Data Engineer in Retail Industry**
+- 👔 I have 3+ years of work experience as a **Data Engineer in Retail Industry**
  
 - 📈 My Technical Skills are **SAP BODS, Python, PostgreSQL, Tableau**
 
