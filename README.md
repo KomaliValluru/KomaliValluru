@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalivalluru&label=Profile%20views&color=0e75b6&style=flat" alt="komalivalluru" /> </p>
 
+<h3 align="left">About Me</h3>
+
 - 🔭 I’m currently working as a **Graduate Assistant at University of South Florida**
 
 - 👔 I have 3+ years of work experience as a **Data Engineer**
