@@ -13,6 +13,8 @@
   
 - 🌱 I’m currently learning **LLM's and GenAI**
 
+- 📖 My Current Reads: **Deep Learning for Coders with Fastai and PyTorch Book by Jeremy Howard and Sylvain Gugger**
+
 - 👨‍💻 All of my projects are available at [https://github.com/KomaliValluru/portfolio](https://github.com/KomaliValluru/portfolio)
 
 <h3 align="left">Connect with me:</h3>
