@@ -13,11 +13,11 @@
 
 -  📐I love learning topics on **Azure, Machine Learning, Statistics, Data Analytics, Data Modeling and Data Warehousing**
   
-- 🌱 I’m currently learning **LLM's and GenAI**.
+- 🌱 I’m currently learning **LLM's and GenAI**
 
 - 📖 My Reads: **Deep Learning for Coders with Fastai and PyTorch Book by Jeremy Howard and Sylvain Gugger**
 
-- 🤝 I am up for collaboration on exciting projects which make use of AI.  
+- 🤝 I am up for collaboration on exciting projects related to **AI, ML, DE and Analytics**   
 
 - 👨‍💻 All of my projects are available at [https://github.com/KomaliValluru/portfolio](https://github.com/KomaliValluru/portfolio)
 
