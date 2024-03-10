@@ -31,8 +31,8 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/SAP_BODS-Expert-ff69b4" alt="SAP BODS"/>
-  <img src="https://img.shields.io/badge/Python-Expert-blue" alt="Python"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-yellow" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-Expert-ff69b4" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Python-Intermediate-orange" alt="Python"/>
   <img src="https://img.shields.io/badge/Tableau-Intermediate-orange" alt="Tableau"/>
 </p>
 
