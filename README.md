@@ -49,7 +49,7 @@
 
 <h3 align="left">Certifications</h3>
 
-- 📜 **Azure Fundamentals Certification**
+- 📜 **Azure Fundamentals (AZ900), Azure Data Fundamentals (DP900)** - Microsoft
 
 <h3 align="left">Connect with me!</h3>
 
