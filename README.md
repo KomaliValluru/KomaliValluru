@@ -21,7 +21,7 @@
 
 - 🤝 I am open to collaboration on exciting projects related to **AI, ML, DE, and Analytics**   
 
-- 👨‍💻 All of my projects are available at [https://github.com/KomaliValluru/portfolio](https://github.com/KomaliValluru/portfolio)
+- 👨‍💻 Portfolio: [Komali's Portfolio](https://komalivalluru.github.io/portfolio/)
 
 <h3 align="left">Skills</h3>
 
