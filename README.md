@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as a **Graduate Assistant at University of South Florida**
 
-- 🎓 I hold a **Master's Degree in Computer Science**
+- 🎓 **Master's Degree in Computer Science** - University of South Florida
 
 - 👔 I have 3+ years of work experience as a **Data Engineer**
 
@@ -19,20 +19,16 @@
 
 - 📖 My Reads: **Deep Learning for Coders with Fastai and PyTorch Book by Jeremy Howard and Sylvain Gugger**
 
-- 🤝 I am up for collaboration on exciting projects related to **AI, ML, DE, and Analytics**   
+- 🤝 I am open to collaboration on exciting projects related to **AI, ML, DE, and Analytics**   
 
 - 👨‍💻 All of my projects are available at [https://github.com/KomaliValluru/portfolio](https://github.com/KomaliValluru/portfolio)
-
-<h3 align="left">Education</h3>
-
-- 🎓 **Master's Degree in Computer Science** - University of South Florida
 
 <h3 align="left">Skills</h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/SAP_BODS-Expert-ff69b4" alt="SAP BODS"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-Expert-ff69b4" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Python-Intermediate-orange" alt="Python"/>
+  <img src="https://img.shields.io/badge/Python-Expert-blue" alt="Python"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-yellow" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Tableau-Intermediate-orange" alt="Tableau"/>
 </p>
 
@@ -47,12 +43,22 @@
   <img src="https://img.shields.io/badge/Data_Warehousing-Learning-brightgreen" alt="Data Warehousing"/>
 </p>
 
-<h3 align="left">Connect with me!:</h3>
+<h3 align="left">Education</h3>
+
+- 🎓 **Master's Degree in Computer Science** - University of South Florida
+
+<h3 align="left">Certifications</h3>
+
+- 📜 **Azure Fundamentals Certification**
+
+<h3 align="left">Connect with me!</h3>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/komali-valluru/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="komali-valluru/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
+
 <p align="left"> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
@@ -64,3 +70,4 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
+
