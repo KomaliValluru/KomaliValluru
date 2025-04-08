@@ -1,73 +1,82 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Komali</h1>
-<h3 align="center">A data enthusiast!</h3>
+<h3 align="center">🚀 Data Engineer | Cloud Enthusiast | LLM Explorer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=komalivalluru&label=Profile%20views&color=0e75b6&style=flat" alt="komalivalluru" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=komalivalluru&label=Profile%20views&color=0e75b6&style=flat" alt="komalivalluru" />
+</p>
 
-<h3 align="left">About Me</h3>
+---
 
-- 🔭 I’m currently working as a **Graduate Assistant at University of South Florida**
+<h3 align="left">🌟 About Me</h3>
 
-- 🎓 **Master's Degree in Computer Science** - University of South Florida
+- 👩‍💻 Currently working as a **Data Engineer at MyBambu** — building scalable data pipelines using **Snowflake, Prefect, Fivetran**, and **RingCentral APIs**.
+- 🎓 Graduate Assistant at **University of South Florida**, creating dashboards, analytics tools, and GPT-powered chatbots for educational insights.
+- 📚 Master’s in Computer Science from **University of South Florida** (GPA: 3.8/4)
+- 🛠️ 4+ years of professional experience with a strong background in **Data Engineering, ETL, Cloud, and Analytics**
+- 🌱 Actively learning and building with **LLMs, GenAI, and MLOps**
+- 💬 Fascinated by **AI, Machine Learning, NLP, Statistics**, and creating intelligent data solutions
+- 📖 Currently reading: *Deep Learning for Coders with fastai & PyTorch* by Jeremy Howard & Sylvain Gugger
+- 🌐 Portfolio: [Komali's Projects](https://komalivalluru.github.io/portfolio/)
+- 🤝 Open to collaborations in **AI/ML/Data Engineering/Analytics**
 
-- 👔 I have 3+ years of work experience as a **Data Engineer**
+---
 
-- 📈 My Technical Skills are **SAP BODS, Python, PostgreSQL, Tableau**
-
-- 📚 I am interested in **Azure, Machine Learning, Statistics, Data Analytics, Data Modeling, and Data Warehousing**
-
-- 🌱 I’m currently learning **LLM's and GenAI**
-
-- 📖 My Reads: **Deep Learning for Coders with Fastai and PyTorch Book by Jeremy Howard and Sylvain Gugger**
-
-- 🤝 I am open to collaboration on exciting projects related to **AI, ML, DE, and Analytics**   
-
-- 👨‍💻 Portfolio: [Komali's Portfolio](https://komalivalluru.github.io/portfolio/)
-
-<h3 align="left">Skills</h3>
+<h3 align="left">🧠 Skills & Interests</h3>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/SAP_BODS-Expert-ff69b4" alt="SAP BODS"/>
-  <img src="https://img.shields.io/badge/Python-Expert-blue" alt="Python"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-yellow" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-orange" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Snowflake-Advanced-blue" alt="Snowflake"/>
+  <img src="https://img.shields.io/badge/Python-Expert-yellow" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-Advanced-lightgrey" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Prefect-Orchestration-blueviolet" alt="Prefect"/>
+  <img src="https://img.shields.io/badge/Fivetran-Integration-teal" alt="Fivetran"/>
+  <img src="https://img.shields.io/badge/Tableau-Dashboarding-orange" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Sigma-Visualization-brightgreen" alt="Sigma"/>
+  <img src="https://img.shields.io/badge/LLMs-GPT%203.5%20Turbo-red" alt="LLM"/>
+  <img src="https://img.shields.io/badge/Azure-Cloud-blue" alt="Azure"/>
 </p>
 
-<h3 align="left">Interests</h3>
+---
+
+<h3 align="left">🎯 Tools & Technologies</h3>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Azure-Learning-brightgreen" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-Learning-brightgreen" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Statistics-Learning-brightgreen" alt="Statistics"/>
-  <img src="https://img.shields.io/badge/Data_Analytics-Learning-brightgreen" alt="Data Analytics"/>
-  <img src="https://img.shields.io/badge/Data_Modeling-Learning-brightgreen" alt="Data Modeling"/>
-  <img src="https://img.shields.io/badge/Data_Warehousing-Learning-brightgreen" alt="Data Warehousing"/>
+  <a href="https://www.snowflake.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.prefect.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/39950895?s=200&v=4" width="40" height="40"/></a>
+  <a href="https://www.fivetran.com/" target="_blank"><img src="https://seeklogo.com/images/F/fivetran-logo-61637D3ED7-seeklogo.com.png" width="40" height="40"/></a>
+  <a href="https://www.ringcentral.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/RingCentral_logo.svg" width="80" height="30"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
+  <a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40"/></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Education</h3>
+---
 
-- 🎓 **Master's Degree in Computer Science** - University of South Florida
+<h3 align="left">📜 Certifications</h3>
 
-<h3 align="left">Certifications</h3>
+- 🧾 Microsoft Certified: **Azure Fundamentals (AZ-900)**  
+- 🧾 Microsoft Certified: **Azure Data Fundamentals (DP-900)**
 
-- 📜 **Azure Fundamentals (AZ900), Azure Data Fundamentals (DP900)** - Microsoft
+---
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">🎓 Education</h3>
+
+- 🎓 **M.S. in Computer Science** – University of South Florida, 2024  
+- 🎓 **B.Tech in Computer Science** – GVP College of Engineering, India
+
+---
+
+<h3 align="left">📬 Connect With Me</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/komali-valluru/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="komali-valluru/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/komali-valluru/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="mailto:vkomalidevi9866@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="30" alt="email"/>
+  </a>
+  <a href="https://github.com/KomaliValluru" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="30" width="30" alt="GitHub"/>
+  </a>
 </p>
-
-<h3 align="left">Languages and Tools</h3>
-
-<p align="left"> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-</p>
-
