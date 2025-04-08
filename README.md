@@ -9,7 +9,7 @@
 
 <h3 align="left">🌟 About Me</h3>
 
-- 👩‍💻 Currently working as a **Data Engineer at MyBambu** — building scalable data pipelines using **Snowflake, Prefect, Fivetran**, and **RingCentral APIs**.
+- 👩‍💻 Currently working as a **Data Engineer at MyBambu** — building scalable data pipelines using **Snowflake, dbt, Prefect, Fivetran**, and **APIs**.
 - 🎓 Graduate Assistant at **University of South Florida**, creating dashboards, analytics tools, and GPT-powered chatbots for educational insights.
 - 📚 Master’s in Computer Science from **University of South Florida** (GPA: 3.8/4)
 - 🛠️ 4+ years of professional experience with a strong background in **Data Engineering, ETL, Cloud, and Analytics**
