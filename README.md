@@ -42,7 +42,6 @@
 <p align="left">
   <a href="https://www.snowflake.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="40" height="40"/></a>
   <a href="https://www.prefect.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/39950895?s=200&v=4" width="40" height="40"/></a>
-  <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="40"height="40"/></a>
   <a href="https://www.sap.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" alt="SAP" width="60"height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
