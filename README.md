@@ -11,8 +11,8 @@
 
 - 👩‍💻 Currently working as a **Data Engineer at MyBambu** — building scalable data pipelines using **Snowflake, dbt, Prefect, Fivetran**, and **APIs**.
 - 🎓 Graduate Assistant at **University of South Florida**, creating dashboards, analytics tools, and GPT-powered chatbots for educational insights.
-- 📚 Master’s in Computer Science from **University of South Florida** (GPA: 3.8/4)
-- 🛠️ 4+ years of professional experience with a strong background in **Data Engineering, ETL, Cloud, and Analytics**
+- 📚 Master’s in Computer Science from **University of South Florida** 
+- 🛠️ 5+ years of professional experience with a strong background in **Data Engineering, ETL, Cloud, and Analytics**
 - 🌱 Actively learning and building with **LLMs, GenAI, and MLOps**
 - 💬 Fascinated by **AI, Machine Learning, NLP, Statistics**, and creating intelligent data solutions
 - 📖 Currently reading: *Deep Learning for Coders with fastai & PyTorch* by Jeremy Howard & Sylvain Gugger
