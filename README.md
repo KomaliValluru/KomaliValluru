@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Komali Valluru</h1>
 
+
 <h3 align="center">🚀 Data Engineer | Cloud Enthusiast | LLM Explorer</h3>
 
 <p align="center">
