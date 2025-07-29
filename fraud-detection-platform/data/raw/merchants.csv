@@ -1,0 +1,501 @@
+merchant_id,merchant_name,category,risk_score,location
+MERCH_00000,"Rodriguez, Figueroa and Sanchez",restaurant,0.21635813257942565,Lake Curtis
+MERCH_00001,"Mcclain, Miller and Henderson",other,0.29810861256746946,North Jefferyhaven
+MERCH_00002,"Johnson, Gonzalez and Santos",online,0.3854236253241156,Robinsonshire
+MERCH_00003,Pacheco-Smith,travel,0.02935868880738868,Lake Roberto
+MERCH_00004,Moore-Bernard,travel,0.4422524280040603,Curtisfurt
+MERCH_00005,Howard LLC,grocery,0.2852918999202923,Lindsaymouth
+MERCH_00006,"Martinez, Nielsen and Miller",other,0.34216102196531034,Mariastad
+MERCH_00007,"Lee, Jones and Stanley",other,0.3604584788881479,Traciebury
+MERCH_00008,James Group,utilities,0.45736252011987555,Franciscostad
+MERCH_00009,Santiago Ltd,restaurant,0.37639018404632124,New Cynthiaside
+MERCH_00010,"Sanchez, Ford and Nelson",utilities,0.02544069673831013,Lake Mark
+MERCH_00011,Perez Inc,online,0.29109016530588033,Richardland
+MERCH_00012,Gentry PLC,restaurant,0.17396510704064685,Jasonfort
+MERCH_00013,Wilkerson-Day,grocery,0.1587972403035121,West Donald
+MERCH_00014,"Hoffman, Baker and Richards",healthcare,0.46776524220729987,Coxberg
+MERCH_00015,"Snyder, Campos and Callahan",restaurant,0.35594826247470557,Lake Ernest
+MERCH_00016,"Henderson, Brown and James",utilities,0.4073854047114424,Riceside
+MERCH_00017,Frazier Inc,other,0.4928543857086589,Kaylamouth
+MERCH_00018,Carter and Sons,restaurant,0.30360725191127996,Smithview
+MERCH_00019,"Gill, Romero and Rodriguez",healthcare,0.2373082085259351,Meaganhaven
+MERCH_00020,"Gonzalez, Brooks and Martin",retail,0.42208772526380745,New Mariotown
+MERCH_00021,Hickman LLC,healthcare,0.48966902501087195,North John
+MERCH_00022,"Arroyo, Miller and Tucker",other,0.11617392250643303,Port Amandaberg
+MERCH_00023,Keller PLC,travel,0.2956548976672556,West Allison
+MERCH_00024,"Henderson, Lewis and Ryan",other,0.39024117942885783,Lake Larry
+MERCH_00025,"Santos, Kim and Holmes",other,0.31112734309337364,East Jeffreymouth
+MERCH_00026,Chapman and Sons,grocery,0.3886484780907352,North Chad
+MERCH_00027,"Brown, Jones and Johnson",retail,0.14788176919030907,Chadbury
+MERCH_00028,Caldwell-Lewis,restaurant,0.41832297755328524,Lake Selena
+MERCH_00029,"Johnston, Sanchez and Kennedy",restaurant,0.15457994513139559,Leeville
+MERCH_00030,"Jordan, Henderson and Owens",entertainment,0.09239391232429126,Lake Deniseville
+MERCH_00031,Powell LLC,entertainment,0.03503057258348749,East Jamesside
+MERCH_00032,Taylor-White,entertainment,0.3746015103079922,Wrightland
+MERCH_00033,Morton-Chase,online,0.3554430113322957,North Deniseside
+MERCH_00034,Novak and Sons,online,0.5216327459876453,South Todd
+MERCH_00035,Hancock Inc,entertainment,0.24797043349734446,South Aaron
+MERCH_00036,Baker-Bowers,other,0.2094915782788247,Mitchellside
+MERCH_00037,"Higgins, Moore and Phillips",other,0.29975729912048393,New Jillton
+MERCH_00038,"Edwards, Williams and Woods",travel,0.09595349122935327,North Susan
+MERCH_00039,York Inc,retail,0.11661687650076534,Lake Michellefurt
+MERCH_00040,David PLC,entertainment,0.47778713196255596,New Brooke
+MERCH_00041,"Miller, Sandoval and Cunningham",utilities,0.09225812862753811,Sarahborough
+MERCH_00042,"Moran, Allen and Foster",online,0.15580680840803682,Stephenland
+MERCH_00043,Ellis PLC,entertainment,0.31664020983552826,North Amandahaven
+MERCH_00044,Anderson-Bailey,retail,0.20045795689749474,East Mikeburgh
+MERCH_00045,Bass-Warner,entertainment,0.1517704803892034,Lake Lisaport
+MERCH_00046,"Garcia, Humphrey and Baker",entertainment,0.46729501974343024,Lake Angelaview
+MERCH_00047,Jacobs-Robbins,healthcare,0.1544022199155444,Lake Cynthia
+MERCH_00048,Wagner-King,grocery,0.16436470144995277,North Cynthiaview
+MERCH_00049,Smith and Sons,other,0.430767414865984,Evanmouth
+MERCH_00050,"Thornton, Hoffman and Rodriguez",other,0.5004996242725093,New Barry
+MERCH_00051,Aguilar-Hernandez,travel,0.4667587510478546,North Kyle
+MERCH_00052,Nolan and Sons,restaurant,0.3807446105145614,Lake Curtis
+MERCH_00053,"Henson, Russell and Oliver",healthcare,0.3703057112606934,East Michelle
+MERCH_00054,Keith Inc,grocery,0.22153087051832474,Lake Sandra
+MERCH_00055,Pham-Shields,gas_station,0.07505015898559518,West Erik
+MERCH_00056,"Rodriguez, Brennan and Garrison",grocery,0.32334619496190564,East Lisa
+MERCH_00057,Bailey-Hoover,online,0.1607306716771843,East Andrew
+MERCH_00058,Ross LLC,restaurant,0.6791553494320408,Port Joshuahaven
+MERCH_00059,Frazier-Anthony,other,0.1446422929556635,Sheilaville
+MERCH_00060,White-Estes,utilities,0.437257999348611,Benjaminchester
+MERCH_00061,Chandler-Edwards,utilities,0.27385036288231285,South Rachelborough
+MERCH_00062,Williams-Graham,healthcare,0.09448452030549628,West Ryan
+MERCH_00063,"Mccall, Hanson and Alvarado",entertainment,0.07732155887132723,Lake Rachelhaven
+MERCH_00064,Estrada-Nguyen,online,0.11271020000593042,Angelaborough
+MERCH_00065,Ortega-Gray,travel,0.21188999130236277,New Ashley
+MERCH_00066,Kelley-Smith,online,0.11238507743982613,Jasonshire
+MERCH_00067,"Pena, Marshall and Ramos",online,0.17850811582695728,New Thomas
+MERCH_00068,"Jackson, Miller and Robertson",restaurant,0.06754745429414084,Clarencebury
+MERCH_00069,"Collins, Drake and Hernandez",grocery,0.45136974610274494,East Traceyland
+MERCH_00070,Perry-Soto,other,0.04018581034636503,Lake Heather
+MERCH_00071,Ross-Hernandez,online,0.12711627594280744,Port Michelleville
+MERCH_00072,Robinson-Brock,utilities,0.21373690486518876,Williamsbury
+MERCH_00073,Bryant Group,retail,0.21953967613296937,Stephaniemouth
+MERCH_00074,"Briggs, Mcclain and Simmons",healthcare,0.14186108858364055,Merrittfort
+MERCH_00075,Green-Wright,grocery,0.6154721014461246,Katiehaven
+MERCH_00076,Sims-Hill,healthcare,0.35709613426524767,Lake Justinview
+MERCH_00077,Flores-Fernandez,gas_station,0.2147172192398696,East Jesse
+MERCH_00078,"Hernandez, Lewis and Perry",utilities,0.45290831634587875,Amychester
+MERCH_00079,Clark Group,retail,0.3492925955541461,Steinshire
+MERCH_00080,"Smith, Gilmore and Johnston",grocery,0.3594158340134024,Smithstad
+MERCH_00081,Molina-Castaneda,retail,0.3259468783785727,Medinaside
+MERCH_00082,"Hurst, Freeman and Nelson",restaurant,0.2338691289252108,Johnsonmouth
+MERCH_00083,"Shelton, Powell and Martin",retail,0.5150756393638317,Calhounside
+MERCH_00084,Meadows PLC,online,0.5098386751580724,North Dawnberg
+MERCH_00085,White-Green,other,0.34572322057163907,Jasonmouth
+MERCH_00086,Juarez-Gray,gas_station,0.10767029032684391,Kingland
+MERCH_00087,Smith-Ryan,grocery,0.37375469789387594,Jeffreyland
+MERCH_00088,"Williams, Johnson and Wright",entertainment,0.09364236487974538,New Elijahberg
+MERCH_00089,Caldwell-Elliott,healthcare,0.03332952567976474,South Holly
+MERCH_00090,Jackson-Lawson,other,0.01775909428597132,Port Loriport
+MERCH_00091,Lane LLC,healthcare,0.2706263042174262,Sandersborough
+MERCH_00092,Vargas Ltd,online,0.3352437422952659,North Heidi
+MERCH_00093,Jefferson-Burke,grocery,0.34407520465521496,Port Tonyaton
+MERCH_00094,Patel-Stanley,gas_station,0.21609075519976362,New Deborahtown
+MERCH_00095,Short-Garcia,restaurant,0.17911112921897523,Cynthiamouth
+MERCH_00096,"Hernandez, Thompson and Boyd",grocery,0.04421643840736263,Christinaside
+MERCH_00097,Marshall-Petersen,other,0.36399006062637107,Marcusbury
+MERCH_00098,Ramirez Group,retail,0.23178458974554808,Port Steven
+MERCH_00099,"Barnett, Rogers and Snyder",travel,0.333244573200915,Hunterborough
+MERCH_00100,Salinas-Peterson,online,0.25890690673971745,Angelahaven
+MERCH_00101,Miller Ltd,other,0.39239349667314954,Freemanbury
+MERCH_00102,"Alvarez, Joseph and West",gas_station,0.44761886771177545,North Kellyfurt
+MERCH_00103,"Sanchez, Beck and Wood",retail,0.032763211531802575,Ronaldside
+MERCH_00104,Bell-Chavez,travel,0.058733909730958454,Johnville
+MERCH_00105,"Lee, Wilson and Herrera",restaurant,0.2884269759915914,East Javier
+MERCH_00106,Hill-Lawrence,restaurant,0.3529620394819119,Tinaborough
+MERCH_00107,Perez-White,utilities,0.19130984382257146,Lake Amandaview
+MERCH_00108,Mccann PLC,retail,0.12656587018666476,Heidiberg
+MERCH_00109,"Oneill, Henry and Salas",entertainment,0.17393206607766581,Taylormouth
+MERCH_00110,Lopez-Williams,other,0.36438235588586515,Wilsonland
+MERCH_00111,Vasquez-Ray,restaurant,0.0588820913047167,East Edwardshire
+MERCH_00112,Miller-Wright,travel,0.24959128874663386,Obrienbury
+MERCH_00113,"James, Kerr and Evans",travel,0.45504349004712863,Torreston
+MERCH_00114,"Choi, Garcia and Farmer",restaurant,0.4369378624270326,West Donna
+MERCH_00115,Allen PLC,other,0.2346906122272814,East Aaronmouth
+MERCH_00116,"Wheeler, Carter and Hall",healthcare,0.14080098803512986,Jacquelinemouth
+MERCH_00117,Mcdaniel LLC,gas_station,0.2799723844010395,South Danny
+MERCH_00118,Holland LLC,healthcare,0.3957417354002231,North Brian
+MERCH_00119,Larson-Holloway,online,0.5624753555286638,Scottmouth
+MERCH_00120,"Torres, Powell and Nelson",healthcare,0.22073763313723993,Kimton
+MERCH_00121,Navarro-Munoz,grocery,0.3413263562614564,North Jeremyshire
+MERCH_00122,"Sampson, Key and Chambers",other,0.16796508510098893,Barbaraburgh
+MERCH_00123,Stone-Ramos,utilities,0.7945170102335387,Howardshire
+MERCH_00124,Walters-Vasquez,online,0.4340531177476444,South Michaelmouth
+MERCH_00125,Santiago-Hodge,retail,0.611205601166396,Robertfort
+MERCH_00126,Bates-Morales,retail,0.27350183129109656,South Christopherview
+MERCH_00127,Wilson-Barton,grocery,0.07701295293567911,Lake Mollymouth
+MERCH_00128,Brown-Stone,entertainment,0.16919216404464185,Garrettton
+MERCH_00129,Adams and Sons,healthcare,0.37115957751289813,Samuelfort
+MERCH_00130,Johnson Ltd,travel,0.7871095725773196,Lake Eric
+MERCH_00131,"Smith, Russell and Walker",restaurant,0.2454814584368829,South Staceyberg
+MERCH_00132,Cantu-Carter,restaurant,0.20910401968298897,Robertfort
+MERCH_00133,Sanchez-Arnold,online,0.19308884126813042,Leehaven
+MERCH_00134,"Suarez, Shields and Hill",other,0.5090294265087,Morganhaven
+MERCH_00135,Hoover-Campbell,travel,0.17826181397331647,Maryshire
+MERCH_00136,"Burns, Hernandez and Ryan",gas_station,0.2602695340207308,Martinside
+MERCH_00137,Gibson-Morris,retail,0.07352606722046746,Lake John
+MERCH_00138,Hall-Rowe,entertainment,0.38088046348263493,West Juliefurt
+MERCH_00139,Mcneil-Sparks,restaurant,0.29419461906665334,South Tammie
+MERCH_00140,Shaw PLC,gas_station,0.34065628330912895,Mollymouth
+MERCH_00141,Fox Group,retail,0.10417343877676535,Lake Douglasberg
+MERCH_00142,Harrison LLC,other,0.2950846234502648,Cindyfurt
+MERCH_00143,"Miller, Murphy and Craig",other,0.011732048889658361,Finleyfort
+MERCH_00144,"Johnson, Jones and Welch",grocery,0.16771598843233163,Wendyland
+MERCH_00145,Good-Hodges,other,0.4512434255540139,South Garrettport
+MERCH_00146,Williams Inc,grocery,0.09449436170630347,Michaelchester
+MERCH_00147,Sanchez Group,travel,0.13956287882394802,East Gregory
+MERCH_00148,"Pitts, Harvey and Allen",entertainment,0.39417052207034764,East Steven
+MERCH_00149,Stevens-Estrada,entertainment,0.36233536311823916,Santanaside
+MERCH_00150,Jones LLC,utilities,0.3900607727313137,Daniellechester
+MERCH_00151,"Wright, Bruce and Gonzalez",retail,0.42455222910960655,Castanedaville
+MERCH_00152,James LLC,entertainment,0.15903579342511207,Victoriaport
+MERCH_00153,Spence Ltd,utilities,0.513992073534772,Hillshire
+MERCH_00154,"Osborne, Beltran and Lozano",healthcare,0.3046425135420506,Wallport
+MERCH_00155,Lawson LLC,other,0.2794392572231199,Lake James
+MERCH_00156,Byrd-Le,other,0.48626308023586984,Lake Colton
+MERCH_00157,"Lucas, Parker and Alexander",other,0.08074929190845397,Jessicaland
+MERCH_00158,Murphy-Perry,entertainment,0.4670575582166285,East Kristin
+MERCH_00159,Schmidt-Mcintyre,grocery,0.3158212310562613,West Robin
+MERCH_00160,Coffey-Phillips,healthcare,0.1255514989599412,Lindamouth
+MERCH_00161,Taylor and Sons,other,0.19447998830906135,Coffeyside
+MERCH_00162,Davis-Foster,grocery,0.24840762574074515,Amandamouth
+MERCH_00163,Chambers-Chambers,grocery,0.4634677152631315,Carsonstad
+MERCH_00164,Leonard Group,other,0.10900553945023769,New Nicoleside
+MERCH_00165,Herman-Walker,grocery,0.17248719434737403,Lake Madisonport
+MERCH_00166,"Ortiz, Taylor and Shah",retail,0.4166926875658156,Wendyville
+MERCH_00167,Young PLC,healthcare,0.4128967703784841,South Shawn
+MERCH_00168,"Avery, Horton and Fernandez",other,0.4403559336992102,South Diana
+MERCH_00169,Gilbert-Crosby,retail,0.19378232310064702,Antoniostad
+MERCH_00170,Ramos and Sons,restaurant,0.23508384003165272,Corystad
+MERCH_00171,"Winters, Newman and Brown",travel,0.5169589075011173,Jamesville
+MERCH_00172,Davis-Lewis,grocery,0.005088353566924538,North Kristinbury
+MERCH_00173,Buchanan and Sons,gas_station,0.5572377157845726,Port Kathyborough
+MERCH_00174,"Robinson, Kane and Murphy",restaurant,0.24309098720567499,Port Rachel
+MERCH_00175,Ramirez and Sons,gas_station,0.5609562817485552,New John
+MERCH_00176,Rodriguez Inc,online,0.19883715503019264,North Michael
+MERCH_00177,Chapman Inc,utilities,0.5642902132396213,West Brian
+MERCH_00178,"Fisher, Wilson and Brown",retail,0.10457038813982605,Stricklandhaven
+MERCH_00179,"Rodriguez, Gordon and Dougherty",gas_station,0.30384417090260873,Lake Kristahaven
+MERCH_00180,Ellis-Maynard,restaurant,0.17157300681464357,South Melaniechester
+MERCH_00181,"Rodriguez, Joseph and Wallace",healthcare,0.17226418608963595,West Charleneland
+MERCH_00182,Hill Ltd,utilities,0.2962837235149346,Oscarhaven
+MERCH_00183,Chavez-Jacobs,gas_station,0.5679282331632692,Port Jacquelineside
+MERCH_00184,"Glenn, Jordan and Beasley",gas_station,0.35087451680363224,Morganmouth
+MERCH_00185,Perry-Davis,travel,0.14134002222624206,Edwardsview
+MERCH_00186,Mckay-Mcdaniel,restaurant,0.4856122353714194,Jonesland
+MERCH_00187,Reynolds Ltd,healthcare,0.1645626034856836,Lisaside
+MERCH_00188,Willis PLC,entertainment,0.05918931341264169,Elizabethchester
+MERCH_00189,Russo-Pugh,other,0.264382397407716,Parrishton
+MERCH_00190,Burke-Bell,restaurant,0.4835884754043778,East Diane
+MERCH_00191,Boone LLC,healthcare,0.11863053021046029,Dannyview
+MERCH_00192,"Perez, Patterson and Hoffman",healthcare,0.4341204066251721,New Sarahview
+MERCH_00193,White Ltd,gas_station,0.34420103998655277,Sandrastad
+MERCH_00194,White and Sons,gas_station,0.37195763831867723,Jonestown
+MERCH_00195,Reese and Sons,other,0.22648319047037857,Barnesmouth
+MERCH_00196,Wood Ltd,grocery,0.4323476060185712,Kimberlyshire
+MERCH_00197,"Miller, Williams and Moore",other,0.22594180190421073,Lake Christophermouth
+MERCH_00198,"Coleman, Lawson and Perry",entertainment,0.224172775710128,Port William
+MERCH_00199,Jordan-Campbell,other,0.4424019166655764,Roseport
+MERCH_00200,Walker PLC,gas_station,0.2521076922916747,North Jamesborough
+MERCH_00201,Duran LLC,utilities,0.2690506574485649,Davidfort
+MERCH_00202,"Jordan, Anderson and Patel",retail,0.20626946434106072,New Angelica
+MERCH_00203,"Drake, Jones and Hensley",entertainment,0.21522356328716008,South Andrewland
+MERCH_00204,Johnston-Berry,restaurant,0.06735989107129599,Robertsfurt
+MERCH_00205,Burch and Sons,retail,0.08111718454586164,Collierstad
+MERCH_00206,Kim Inc,utilities,0.3484730346317251,South Brianna
+MERCH_00207,"Miller, Harrell and Reese",gas_station,0.17779868305390337,West Kimberly
+MERCH_00208,Dixon Inc,gas_station,0.3948960914614421,Port Michael
+MERCH_00209,"Mullen, Brewer and Hernandez",utilities,0.2753437450079664,East Jonathanburgh
+MERCH_00210,"Hernandez, Malone and Jones",entertainment,0.16545185484476485,Marshallshire
+MERCH_00211,"Cole, Glass and Cunningham",entertainment,0.33005643419595054,Michellemouth
+MERCH_00212,Gonzales Group,gas_station,0.5043661856962703,Welchview
+MERCH_00213,"Brown, Romero and Collins",online,0.3406281248935073,Johnsonstad
+MERCH_00214,Jones-Lin,online,0.0977131023079724,New Brookefurt
+MERCH_00215,Carpenter-Best,healthcare,0.6676616974243158,South Reginashire
+MERCH_00216,"Lopez, Jacobs and Mason",online,0.31396164228985507,South Dalemouth
+MERCH_00217,"Miller, Lucas and Williams",retail,0.21396664747358926,Ritterhaven
+MERCH_00218,"Bishop, Cox and Hardin",utilities,0.1827892191276836,Ortizmouth
+MERCH_00219,"Harper, Mccormick and Holland",utilities,0.186231803274105,West Codyfurt
+MERCH_00220,King-York,travel,0.31619962664069623,West Christopher
+MERCH_00221,"Thomas, Bailey and Ponce",online,0.40128371500234417,Andersonland
+MERCH_00222,Hansen-Schneider,restaurant,0.33455899922108046,Lisahaven
+MERCH_00223,Lucas Group,healthcare,0.2531367402705136,Andrewport
+MERCH_00224,Bean LLC,restaurant,0.16714006597982672,Leeberg
+MERCH_00225,Jones Inc,other,0.28199556182287283,Lake Matthewberg
+MERCH_00226,"Bennett, Martin and Guerra",other,0.34319864233018066,Lake Samuel
+MERCH_00227,Diaz-Ball,utilities,0.6042827399651838,Bishopmouth
+MERCH_00228,Ferguson LLC,retail,0.2545707516692672,Mckeeborough
+MERCH_00229,Gregory-Hudson,grocery,0.6529921958028765,Murrayport
+MERCH_00230,Shaw-Barnes,grocery,0.11954903966228339,Port James
+MERCH_00231,"Taylor, Wright and Davidson",utilities,0.4935690593441088,Angelaville
+MERCH_00232,"Singleton, Rosales and Mitchell",grocery,0.15713618774713337,West Shannon
+MERCH_00233,"Hernandez, Kim and Potts",gas_station,0.04382211252433492,Port Shannon
+MERCH_00234,Arias-Perry,utilities,0.23814452783450318,Shawbury
+MERCH_00235,Vang-Brooks,online,0.07982342544465083,West Sarahmouth
+MERCH_00236,Taylor LLC,grocery,0.19067355054577628,Hortonberg
+MERCH_00237,"Harrison, Gilbert and Bullock",utilities,0.4228354216180099,West Jasonberg
+MERCH_00238,"Bentley, Lynch and Henderson",healthcare,0.5168388312318611,Johnville
+MERCH_00239,Allen Ltd,retail,0.14037352838830014,Brownfort
+MERCH_00240,"Herrera, Chen and Andrews",restaurant,0.30109134217446265,West Ruben
+MERCH_00241,"Gomez, Duncan and Lopez",healthcare,0.43914662146952593,New Theresaland
+MERCH_00242,"Stephens, Hartman and Romero",gas_station,0.274786252010213,South Morganton
+MERCH_00243,"Hughes, Brooks and Burgess",travel,0.1589355855080639,Kristinastad
+MERCH_00244,Quinn Ltd,restaurant,0.3076633264062869,Port Bonniemouth
+MERCH_00245,Williams PLC,entertainment,0.04686940092169305,Lisaburgh
+MERCH_00246,"Marshall, Dominguez and Welch",healthcare,0.4055653667854064,North Jennifer
+MERCH_00247,Johnson-Harris,restaurant,0.2674291732016951,North Leslie
+MERCH_00248,Robertson-Hays,travel,0.0927579558399766,Kingborough
+MERCH_00249,Kelly-Norman,entertainment,0.3506489102840935,Joshuastad
+MERCH_00250,Preston-Paul,healthcare,0.3705148509751632,Morganburgh
+MERCH_00251,Holt-Richardson,restaurant,0.5225290892261507,Lauriechester
+MERCH_00252,Jordan and Sons,grocery,0.4115550984776533,Manuelland
+MERCH_00253,Guerrero-Parker,entertainment,0.09681757870337834,Jacksonmouth
+MERCH_00254,West-Acosta,entertainment,0.4017607958612707,Christinachester
+MERCH_00255,Fowler-Moody,healthcare,0.1480762931848553,North Emilyfurt
+MERCH_00256,Palmer-Brady,gas_station,0.23986988415404037,North Douglas
+MERCH_00257,"Gregory, Kim and Martinez",healthcare,0.34954126967835764,Port Deanna
+MERCH_00258,Reyes-Bradley,retail,0.41570468118441634,Lake Shannon
+MERCH_00259,Watson-Hines,other,0.2621623227058556,New Michael
+MERCH_00260,Banks-Wright,travel,0.5153405807805825,North Jillfort
+MERCH_00261,"Hughes, Hoffman and Green",restaurant,0.8512611178292414,Janeborough
+MERCH_00262,"Mitchell, Hendricks and Henry",other,0.2937834073222493,East Melissamouth
+MERCH_00263,Roach Group,travel,0.47612731321724583,Port Evelynmouth
+MERCH_00264,"Reed, Brown and Daniels",other,0.39380820481912054,Melissaburgh
+MERCH_00265,Hicks-Martinez,other,0.722377276622846,Port Dominic
+MERCH_00266,Johnson-Spencer,grocery,0.17840583774364457,Tannerside
+MERCH_00267,Salazar Inc,restaurant,0.17530059557146835,West Raymondfort
+MERCH_00268,"Jenkins, Ortiz and Andrews",healthcare,0.3211981472241347,West Dawn
+MERCH_00269,Owens-Holmes,travel,0.23826710491265343,Port Kimberly
+MERCH_00270,"Matthews, Saunders and Anderson",healthcare,0.16959501161467375,Port Davidberg
+MERCH_00271,Martin-Morris,healthcare,0.14075474981224445,West Stacey
+MERCH_00272,"Jacobson, Singleton and King",restaurant,0.21986202951987535,Davidport
+MERCH_00273,"Ferguson, Shaw and Jackson",travel,0.07957192294777751,East Donna
+MERCH_00274,"Winters, Morgan and Bradshaw",travel,0.5015543242524209,Port Michelleland
+MERCH_00275,Fry PLC,healthcare,0.6665904900395431,Debrashire
+MERCH_00276,Montgomery-Johnson,retail,0.08908209071340413,Dawnport
+MERCH_00277,Sanchez-Aguirre,online,0.20096287723431966,Evansland
+MERCH_00278,"Brown, Gonzales and Washington",grocery,0.3193201275731948,West Catherine
+MERCH_00279,Hensley-Flores,utilities,0.3990758542316495,Theresaberg
+MERCH_00280,Robertson-Rodriguez,entertainment,0.34755960663320545,South David
+MERCH_00281,Wright-Davis,grocery,0.38709791161875995,Soniachester
+MERCH_00282,Estes and Sons,retail,0.3708487026408427,Sarahmouth
+MERCH_00283,Hines Group,entertainment,0.6013478039856314,Jimenezport
+MERCH_00284,Johnson-Landry,travel,0.18181032268743014,Levyborough
+MERCH_00285,"Gomez, Williams and Simpson",other,0.5665498107719812,Mitchelltown
+MERCH_00286,Jordan LLC,restaurant,0.24218580072524754,Kathrynstad
+MERCH_00287,Morales PLC,retail,0.3166684114330456,West Angela
+MERCH_00288,Hughes Group,utilities,0.26577645932488064,Marciaville
+MERCH_00289,Hester Group,entertainment,0.39804397975918515,Lauramouth
+MERCH_00290,"Mcmillan, Fischer and Gonzalez",travel,0.24553250499067084,Porterton
+MERCH_00291,Taylor LLC,travel,0.27962344172510606,Stoneberg
+MERCH_00292,"Barry, Taylor and Velazquez",grocery,0.15065319090531681,Franciscoport
+MERCH_00293,"Rogers, Clayton and Patel",travel,0.7800150781360661,Thomastown
+MERCH_00294,Rivera-Rodriguez,grocery,0.1610623423991291,Silvatown
+MERCH_00295,"Wells, Coffey and Patton",utilities,0.11861396554773997,Lake Brett
+MERCH_00296,Jackson-Fuller,utilities,0.4087909522273318,Hernandezbury
+MERCH_00297,Armstrong Ltd,entertainment,0.2356724878863026,East Andrewmouth
+MERCH_00298,Hernandez-Vaughn,entertainment,0.36206697190430126,Shawfort
+MERCH_00299,"Luna, Thornton and Stone",other,0.4419476214206723,Whitneyfort
+MERCH_00300,"Bennett, Frye and Stevens",online,0.19821637865933683,Amyview
+MERCH_00301,"Washington, Bernard and Ramirez",entertainment,0.21632721305393568,Jeffreyport
+MERCH_00302,Bush-Vaughn,entertainment,0.1760485898374976,Stewartstad
+MERCH_00303,"Peck, Pope and Hill",travel,0.04453056380681447,New Ericafurt
+MERCH_00304,Cardenas-Blevins,grocery,0.2082288816662296,West Bobby
+MERCH_00305,"Miller, Bradshaw and Douglas",grocery,0.26246294607876147,Lewisside
+MERCH_00306,Fitzpatrick-Horton,utilities,0.30438210549147365,North Christina
+MERCH_00307,"Allen, Williams and Stein",entertainment,0.3017891830766212,Lake Jesse
+MERCH_00308,Gutierrez Ltd,gas_station,0.46802840044643806,Garciaberg
+MERCH_00309,Oconnell and Sons,grocery,0.049198845934233244,Delgadofort
+MERCH_00310,Santos-Avila,retail,0.42528389292076174,Manuelton
+MERCH_00311,Pearson and Sons,other,0.1357450444609104,East Robertburgh
+MERCH_00312,Osborn Group,utilities,0.2767040251454806,Lopezport
+MERCH_00313,Smith PLC,travel,0.3460322048527961,West Justinside
+MERCH_00314,"Snyder, Mays and Rosales",restaurant,0.4677024343631199,Nelsonville
+MERCH_00315,Martin-Stevens,restaurant,0.2559758569558938,Jennifertown
+MERCH_00316,"Rogers, Phillips and Craig",gas_station,0.2924768360311141,East Cheryl
+MERCH_00317,"Prince, Wilcox and Robertson",healthcare,0.1550541083964814,South Elizabethburgh
+MERCH_00318,Woods and Sons,travel,0.25916263480693047,West Patrickmouth
+MERCH_00319,Finley-Turner,travel,0.08185713395032099,West Desireebury
+MERCH_00320,Contreras Group,grocery,0.5502466552653651,Erikhaven
+MERCH_00321,"Carrillo, Vaughn and Fowler",grocery,0.16118759337009864,Michaelbury
+MERCH_00322,Bernard Group,retail,0.24469851072734633,South Julie
+MERCH_00323,"Brooks, Miles and Durham",other,0.24320120920905433,Port John
+MERCH_00324,"Marks, Miller and Griffin",online,0.2935198356802219,Christianshire
+MERCH_00325,Brown PLC,gas_station,0.36908077774029807,New Amanda
+MERCH_00326,Murphy PLC,grocery,0.18314586363251759,Wilsonborough
+MERCH_00327,"Aguilar, Davis and Dixon",gas_station,0.45950051954356824,South Davidchester
+MERCH_00328,Elliott-Hansen,grocery,0.7828153110166447,Jenniferfurt
+MERCH_00329,Velasquez-Reese,utilities,0.12115990122967447,North Rodneyland
+MERCH_00330,"Mcknight, Michael and Jones",healthcare,0.13883721081020298,Johnsonchester
+MERCH_00331,Mack Ltd,online,0.11396458469721821,Brooksfurt
+MERCH_00332,Kane-Knox,gas_station,0.5516063536813781,Millerside
+MERCH_00333,Valdez LLC,grocery,0.1724663809716311,East Victoriafurt
+MERCH_00334,"Anderson, Irwin and Davenport",other,0.11609957706612525,West Stevenside
+MERCH_00335,Patel-Morrow,restaurant,0.6852442018744211,South Michael
+MERCH_00336,Lopez-Golden,restaurant,0.31289655848775033,North Lisachester
+MERCH_00337,"Miranda, Stephenson and Smith",retail,0.11635191900135469,North Craig
+MERCH_00338,Griffin Ltd,restaurant,0.07277677786462247,East Joyfurt
+MERCH_00339,Young-Robinson,other,0.19802335778375857,East Williamport
+MERCH_00340,Cabrera Ltd,online,0.3051488265277075,Barbaramouth
+MERCH_00341,Turner and Sons,entertainment,0.5151744675363088,South Kevin
+MERCH_00342,Hawkins PLC,retail,0.06809195846808443,Lake Erika
+MERCH_00343,"Simpson, Compton and David",grocery,0.3832938258480702,Floydmouth
+MERCH_00344,"Butler, Hernandez and Bennett",other,0.09575157113929061,Allenbury
+MERCH_00345,Mathews-Thomas,other,0.1343502746324969,Melendezside
+MERCH_00346,Faulkner-Grant,other,0.27470029412662283,South John
+MERCH_00347,Rivera Inc,restaurant,0.46324601531313364,Booneland
+MERCH_00348,"Hardy, Lee and Adams",gas_station,0.34074614797161085,Port Charlesshire
+MERCH_00349,"Powers, Robinson and Clark",entertainment,0.22667565107356552,Kevintown
+MERCH_00350,Giles Ltd,travel,0.08755545283627629,Lake Yvonnefort
+MERCH_00351,Dominguez Ltd,grocery,0.33613779518703285,South Rose
+MERCH_00352,"Morris, Campbell and Owens",other,0.2426971043746892,Kylestad
+MERCH_00353,"Andrade, Owens and Lang",restaurant,0.17226492494382561,Gillmouth
+MERCH_00354,Wood Group,utilities,0.24210450768023103,New Michelleberg
+MERCH_00355,Green PLC,online,0.5052439717645854,Phillipsborough
+MERCH_00356,Hall-Hudson,travel,0.2901780345830541,South Andrea
+MERCH_00357,"Morgan, Hines and Burns",grocery,0.5233229008998268,Murraystad
+MERCH_00358,Taylor PLC,other,0.24805262729385905,Whiteside
+MERCH_00359,"Bernard, Warren and Combs",online,0.3221975594946303,Port Elizabethtown
+MERCH_00360,Taylor-Mccoy,healthcare,0.4545933426908762,Lake Edwardborough
+MERCH_00361,"Bryant, Brown and Little",online,0.2105687499692885,Hopkinstown
+MERCH_00362,Patel Group,utilities,0.1273987961023999,North Alyssaview
+MERCH_00363,"Madden, Smith and Li",other,0.6424805229723429,Drakeburgh
+MERCH_00364,Hull PLC,grocery,0.07016220724747678,East James
+MERCH_00365,"King, Gomez and Norton",grocery,0.680746706837094,West Susanmouth
+MERCH_00366,"Sanchez, Terry and Evans",online,0.14066166958025655,Lake Victoriaton
+MERCH_00367,Sullivan Group,restaurant,0.17269988944107523,Browntown
+MERCH_00368,"Jackson, Porter and Hamilton",other,0.3025859812889997,Arielville
+MERCH_00369,"Ellison, Hall and Valenzuela",restaurant,0.31299561655053093,Nelsonland
+MERCH_00370,"Frost, Lam and Elliott",healthcare,0.32252790313499025,East Sarahmouth
+MERCH_00371,Ali PLC,online,0.034571920131025925,Port Lori
+MERCH_00372,Hickman-Evans,restaurant,0.6687095511667286,New Mary
+MERCH_00373,Rhodes-Fernandez,retail,0.01841830261508711,Camposberg
+MERCH_00374,"Ramsey, Mason and Mccann",healthcare,0.14063516843307072,North Samuelland
+MERCH_00375,Jacobs-Austin,other,0.13891601668654,Novakmouth
+MERCH_00376,Walters Group,restaurant,0.13926696040487185,Perezside
+MERCH_00377,Reynolds-Frazier,online,0.504252215773611,Millerport
+MERCH_00378,Marquez Inc,entertainment,0.1807152755257914,Ericberg
+MERCH_00379,"Price, Ward and Davis",utilities,0.28674887975857966,Seanview
+MERCH_00380,Anderson and Sons,entertainment,0.2865902282944557,Coleside
+MERCH_00381,"Russell, Johnson and Gomez",utilities,0.4701807665512386,New Carlymouth
+MERCH_00382,Smith-Gutierrez,entertainment,0.34403366996883233,Lake Rachelbury
+MERCH_00383,"Meyer, Jennings and Jackson",utilities,0.3682211505344375,Kevinfort
+MERCH_00384,Brown Group,grocery,0.4422399291533355,Robertfort
+MERCH_00385,Ward and Sons,online,0.4239989529252549,Wheelerborough
+MERCH_00386,Rodriguez-Torres,retail,0.332750374131645,Cookfurt
+MERCH_00387,Alexander-Jordan,online,0.3659114517169226,West Malik
+MERCH_00388,"Harris, Edwards and Oconnell",retail,0.3228182067275072,Kellyfort
+MERCH_00389,"Casey, Nguyen and Ramirez",travel,0.728900469514462,Diazshire
+MERCH_00390,Vargas PLC,other,0.16918809859872513,Lake Katrina
+MERCH_00391,Benton Group,retail,0.047931760605653836,South Lauren
+MERCH_00392,"Jones, Abbott and Pope",restaurant,0.14814417511989356,Taylorport
+MERCH_00393,King and Sons,online,0.23672035416042597,Mccormickland
+MERCH_00394,Ewing-Mendoza,restaurant,0.01196287097623888,Fergusonchester
+MERCH_00395,"Johnson, Schmitt and Miles",retail,0.051594131838666867,North Kaylastad
+MERCH_00396,Holland Inc,utilities,0.37535404733978345,Rasmussenmouth
+MERCH_00397,Rodriguez-Garcia,grocery,0.13194386691434543,New Julie
+MERCH_00398,"Carpenter, Johnston and Griffin",travel,0.36124631097053456,Fordshire
+MERCH_00399,"Mason, Cooper and Johnson",grocery,0.27513144316568466,West Robertland
+MERCH_00400,Guerra Ltd,grocery,0.3216002312477206,West Larry
+MERCH_00401,Mueller-Boyd,online,0.1844872224906423,Thomasmouth
+MERCH_00402,"Horton, Flores and Evans",online,0.12792257346058533,North Melindaville
+MERCH_00403,"Marsh, Spears and Yang",utilities,0.3836583346615528,New Ethan
+MERCH_00404,"Simmons, Murray and Salinas",utilities,0.0634774280855794,East Danielle
+MERCH_00405,Foster-Mclaughlin,gas_station,0.15479554392782993,South Brittany
+MERCH_00406,Smith-Lewis,retail,0.5665141863889595,Karenland
+MERCH_00407,"Garcia, Wiggins and Lopez",retail,0.08986838618499648,Jamesville
+MERCH_00408,Lambert-Burns,online,0.19693053970818394,Candicefurt
+MERCH_00409,"Wilson, Bell and Ellis",utilities,0.07731517522992788,Port Emily
+MERCH_00410,Sellers-Lawrence,grocery,0.3780332847569743,West David
+MERCH_00411,Wilson-Brooks,utilities,0.26409920983921104,New Paul
+MERCH_00412,"Taylor, Reyes and Lopez",grocery,0.019263421226289164,New Garrett
+MERCH_00413,Taylor-Edwards,healthcare,0.05261628413046866,Harveystad
+MERCH_00414,Washington and Sons,other,0.2986074481991807,Maynardhaven
+MERCH_00415,"Simpson, Cohen and Perry",online,0.0894432098311809,Burnsland
+MERCH_00416,"Johnson, Juarez and Carter",grocery,0.23509754484217443,Jeffreyport
+MERCH_00417,Norman PLC,restaurant,0.2957079309282742,Dunnville
+MERCH_00418,"Wilson, Hampton and Morrow",utilities,0.2526805387176924,Amberton
+MERCH_00419,"Alexander, Robinson and Coleman",online,0.35497304917091804,West Nancy
+MERCH_00420,Cole LLC,travel,0.06117191873702304,South Michelleville
+MERCH_00421,Clark Ltd,other,0.33560100375164553,Michellechester
+MERCH_00422,Jensen and Sons,gas_station,0.11483867703896865,Port Brian
+MERCH_00423,Patel-Carlson,retail,0.14905597502903867,West Tiffany
+MERCH_00424,Roberts-Adams,entertainment,0.16358620690371514,East Sydneychester
+MERCH_00425,Riddle Ltd,grocery,0.09880088234097001,Lake Michelle
+MERCH_00426,Thomas LLC,healthcare,0.11140087617136292,Port Megan
+MERCH_00427,Burns-Ray,utilities,0.32029533115884595,Courtneyfurt
+MERCH_00428,Jones-Norton,retail,0.3317566821141284,South Zacharyview
+MERCH_00429,"Mayer, Wood and Clements",online,0.4013153951924491,Brandiland
+MERCH_00430,"Stanton, Reid and Terry",entertainment,0.21210036823079417,Port Amandaborough
+MERCH_00431,Summers-Simpson,entertainment,0.6101698195404857,Mariamouth
+MERCH_00432,"Lane, Knight and Washington",travel,0.6945650818890275,Patriciaton
+MERCH_00433,Garcia Group,other,0.43766728994207355,North Sarahburgh
+MERCH_00434,Bryant-Braun,other,0.3516621710476655,Harrisberg
+MERCH_00435,"Turner, Baxter and Mcdowell",retail,0.06815873954090378,Lake Michaelland
+MERCH_00436,Beck-Banks,retail,0.03334438932643567,South Conniebury
+MERCH_00437,Rios-Padilla,gas_station,0.35660131991712946,East Thomasberg
+MERCH_00438,"Perez, Frazier and Smith",gas_station,0.11192688888737036,Lisachester
+MERCH_00439,"Anderson, Jones and Reyes",restaurant,0.2602259004177,North Lawrenceport
+MERCH_00440,Reyes and Sons,grocery,0.3283251320222436,North Alyssa
+MERCH_00441,Bishop and Sons,healthcare,0.2082421157905725,Bellborough
+MERCH_00442,"Goodman, Gillespie and Jensen",travel,0.2135542114753054,Heathland
+MERCH_00443,Taylor Inc,healthcare,0.19772883266885494,Bellchester
+MERCH_00444,Moody-Wright,grocery,0.1837292566245647,East Angelaport
+MERCH_00445,"Johnson, Boone and Liu",utilities,0.37941846651538824,New Catherine
+MERCH_00446,Adkins LLC,healthcare,0.4149915561870993,Port Rachaelbury
+MERCH_00447,Cruz-Allen,travel,0.23136020637766871,New Pamelatown
+MERCH_00448,Peck-Anderson,grocery,0.049113922897548526,Diazburgh
+MERCH_00449,Best-Townsend,other,0.10977768428106584,New Carlosview
+MERCH_00450,Williams Inc,entertainment,0.08846445591112763,Hunterhaven
+MERCH_00451,Henderson-Morales,restaurant,0.06548109640738387,West Christopher
+MERCH_00452,Dixon and Sons,grocery,0.6149881256840686,New Mark
+MERCH_00453,"Walters, Davenport and Becker",grocery,0.25334334974295414,West Hollybury
+MERCH_00454,Sanchez Group,grocery,0.257883040258505,South Cherylton
+MERCH_00455,Wade-Barrett,utilities,0.27617644116470247,North Alexander
+MERCH_00456,Miles and Sons,gas_station,0.38286544090804675,Bentonhaven
+MERCH_00457,"Logan, Le and Jackson",retail,0.11254528863014109,Lake Kimberly
+MERCH_00458,Quinn-Wilson,utilities,0.421917509692123,West Lindsayview
+MERCH_00459,"Brown, Joseph and Ray",grocery,0.2704345574608796,South Spencerstad
+MERCH_00460,Porter PLC,entertainment,0.2674035284210976,West Eric
+MERCH_00461,Shannon Ltd,grocery,0.2698431659634205,East Joycetown
+MERCH_00462,Trevino Inc,entertainment,0.26811208903262224,North Thomas
+MERCH_00463,Mora-White,utilities,0.24211703757765313,New Lindachester
+MERCH_00464,Morris Group,grocery,0.300338935819503,Josephland
+MERCH_00465,"Watson, Shaw and Winters",gas_station,0.05399678212557218,East Linda
+MERCH_00466,Finley Inc,other,0.1621297538006487,Clineport
+MERCH_00467,Miller-Bryant,retail,0.30798843980562646,Jamesshire
+MERCH_00468,Stevenson-Sanchez,utilities,0.09831079884075856,Brittanyfort
+MERCH_00469,Oconnor PLC,other,0.5680913279813964,East Adam
+MERCH_00470,Johnson-Weaver,gas_station,0.1883054492943506,West Aaronfurt
+MERCH_00471,"Acosta, Garcia and Moreno",travel,0.7294118507963524,South Travis
+MERCH_00472,Kaufman and Sons,grocery,0.432695467561544,Christopherbury
+MERCH_00473,"Gutierrez, Huang and Ellis",online,0.4231360510293204,New Codyberg
+MERCH_00474,"Wilkins, Jones and Bradley",travel,0.18484332284510674,Batesberg
+MERCH_00475,Carter LLC,gas_station,0.2523904076788845,Haynesmouth
+MERCH_00476,Chavez-Hall,travel,0.2539299396177408,East Kimberly
+MERCH_00477,"Rodriguez, Garcia and Cole",retail,0.3073912731326632,Richardside
+MERCH_00478,Oconnell-Clark,online,0.3348376528011768,Stevenville
+MERCH_00479,Moore Ltd,grocery,0.44097008575112395,Margaretton
+MERCH_00480,Huff LLC,other,0.447189536183682,North Jennifer
+MERCH_00481,Foster-Williams,other,0.09231284819155265,Jorgeburgh
+MERCH_00482,Crane Group,gas_station,0.2761137694549001,North Steven
+MERCH_00483,Martinez Inc,online,0.18976632586728723,East James
+MERCH_00484,Watson-Mccoy,travel,0.33576867867111054,New Brendaland
+MERCH_00485,Osborn and Sons,grocery,0.2298717442434498,Lambland
+MERCH_00486,Martinez-Dunlap,grocery,0.2410132604544278,East Sandrachester
+MERCH_00487,"Foster, Johnson and Vega",grocery,0.577109761159947,West Jason
+MERCH_00488,Hill Group,grocery,0.12621100462036808,North Christina
+MERCH_00489,"Sanchez, Phillips and Jenkins",restaurant,0.400134655431358,Brownview
+MERCH_00490,Taylor-Gonzalez,restaurant,0.19323561850445958,Lake Virginia
+MERCH_00491,"Norton, Mayo and Casey",healthcare,0.4400360510976016,Timothyfort
+MERCH_00492,Durham-Shaw,healthcare,0.24532610763483903,Nelsontown
+MERCH_00493,Harper-Johnson,retail,0.3300579057719616,Brianfort
+MERCH_00494,"Howard, Silva and Hall",travel,0.3019485563857525,North John
+MERCH_00495,Adams Ltd,online,0.5697902356812936,Port Wendybury
+MERCH_00496,"Bradford, Salinas and Kelly",grocery,0.25426896771586804,East Joel
+MERCH_00497,Drake-Wolfe,gas_station,0.2695543282089567,Lake Jackieshire
+MERCH_00498,"Thomas, Vaughan and Copeland",restaurant,0.4075646085590779,Weaverburgh
+MERCH_00499,Johnson-Brown,online,0.119341413394898,North Alisha
